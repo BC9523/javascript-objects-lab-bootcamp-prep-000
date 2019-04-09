@@ -1,1 +1,1 @@
-var recipes = {
+var recipes = {bread: '[water, flour, yeast]';
